@@ -1,0 +1,1 @@
+Allows the admin to onboard new users using OTP verification.

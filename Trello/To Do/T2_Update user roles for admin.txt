@@ -1,0 +1,1 @@
+Enables the admin to assign and modify user permissions instantly.

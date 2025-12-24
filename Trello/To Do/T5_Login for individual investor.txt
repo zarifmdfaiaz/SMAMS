@@ -1,0 +1,1 @@
+As an individual investor, I want to login with username and password so that the system can authenticate me

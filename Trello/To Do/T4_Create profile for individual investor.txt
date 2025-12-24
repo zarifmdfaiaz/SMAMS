@@ -1,0 +1,1 @@
+As an individual investor, I want to create a new profile so that I can enroll myself in the system
