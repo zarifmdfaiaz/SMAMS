@@ -1,1 +1,1 @@
-Enables the admin to add, update, or remove stock data in the database.
+As an admin, i can maintain database so that stock can be added/updated/removed successfully.
