@@ -1,1 +1,1 @@
-Allows the admin to onboard new users using OTP verification.
+As an admin i can create user accounts so that i can onboard users.
