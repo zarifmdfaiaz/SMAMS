@@ -1,1 +1,1 @@
-Enables the admin to assign and modify user permissions instantly.
+As an admin i can manage permissions so that role can be updated instantly.
